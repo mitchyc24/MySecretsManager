@@ -58,7 +58,7 @@ A secure, single-file web application for managing passwords, secrets, tokens, a
 - **Web Crypto API**: Uses browser's native cryptography (AES-256-GCM)
 - **PBKDF2**: 100,000 iterations for key derivation
 - **Salt & IV**: Unique salt and initialization vector for each encryption
-- **No External Dependencies**: No CDNs or third-party services (after initial page load)
+- **No External Dependencies**: No CDNs or third-party services
 - **Client-Side Only**: All encryption happens in your browser
 
 ## Browser Compatibility
